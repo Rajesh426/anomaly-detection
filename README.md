@@ -13,5 +13,9 @@ Boundaries are based on the median and IQR of the Box plot
 Defining a rule that if a sample is having only one or two samples around it then group it as Outlier <br>
 
 # 4 IsolationForest <br>
-One technique of finding outliers is using a decision tree [IsolationForest]   .<br>
-Here for a data if the ouput is -1 then it is outlier or Anomaly
+One technique of finding outliers is using a decision tree [IsolationForest].<br>
+Here for a data if the ouput is -1 then it is outlier or Anomaly <br>
+# Dependencies Required <br>
+Pandas<br>
+sklearn<br>
+numpy <br>
